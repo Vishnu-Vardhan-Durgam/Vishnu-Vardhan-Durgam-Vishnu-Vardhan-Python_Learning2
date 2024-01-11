@@ -8,7 +8,7 @@ print("Hello World")
 # git add README.md
 # git commit -m "first commit"
 # git branch -M main
-# git remote add origin https://github.com/Vishnu-Vardhan-Durgam/Vishnu-Vardhan-Python_Learning1.git
+# git remote add origin https://github.com/Vishnu-Vardhan-Durgam/Vishnu-Vardhan-Durgam-Vishnu-Vardhan-Python_Learning2.git
 # git push -u origin main
 
 …or push an existing repository from the command line
