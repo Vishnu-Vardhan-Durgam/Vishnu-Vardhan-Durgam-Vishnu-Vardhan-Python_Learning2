@@ -20,6 +20,7 @@ numbers2 = [6, 7, 8, 9, 10]
 sq_numbers2 = list(map(lambda x: x * x, numbers2))  # available for tuple and set as well
 print(sq_numbers2)  # [36, 49, 64, 81, 100]
 
+
 ############################
 
 def triple(a):
